@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Deployment Test</title>
+</head>
+<body>
+  <h1>🚀 Deployment Successful from GitHub to RunCloud!</h1>
+  <p>You deployed your first web app using Git 🎉</p>
+</body>
+</html>
